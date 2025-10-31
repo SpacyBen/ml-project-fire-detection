@@ -1,5 +1,5 @@
 
-# 🔥 Fire & Face Detector (Triple YOLO)
+# 🔥 Fire with Face Detector
 
 Real-time fire & face detection using YOLO models with GUI support.
 
@@ -33,4 +33,8 @@ NOTE:
     3. Install dlib in your venv:
         pip install dlib
 - Current setup just detects faces and labels manually.
+
+- best.pt
+    1. recognizes my face "Ben Dante" you can put your own too.
+    2. training Your own is more easier but more faster if you have good setup.
 
