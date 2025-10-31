@@ -1,8 +1,0 @@
-# Fire and Face Detection dataset
-train: datasets/images/train
-val: datasets/images/val
-
-nc: 2
-names:
-  - fire
-  - face
